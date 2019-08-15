@@ -1,0 +1,48 @@
+
+Stuff I'm not sure where to put
+    Copy table command in edit menu for getting tables out of Stata
+    Label database, variable, data
+    Basics of time series analysis - xtset etc
+
+    Indicator and interaction variables (tabulate, gen())
+
+Maybe not needed to cover
+    weighting (frequency and sampling)
+    Basic stats commands (regress, anova, t-tests)
+        Maybe just show all of the commands that are available
+    
+
+Understanding your data
+    
+    List data
+    Use the if command to limit list
+    Use 'order' to change the order of the variables in the data editor, 'aorder' to set alphabetically.
+    Sort based on a variable using 'sort' - some methods require sorted data
+    Tabulating, two-way tabs
+    Other descriptive statistics 
+         correlations, covariances, means, confidence intervals
+     
+
+Working with Stata output
+    Using the 'stored results' section in Stata help files
+        r() to get specific values from summaries
+        Use return list to get all of the results
+        e() post estimations
+        Use ereturn list for these values
+
+Common tasks you'll want to do in Stata
+    Dealing with missing data
+        Open a dataset and remove some values
+    Destring data (alternatively, 'real' command)
+
+Graphing in Stata
+    This is one place where the menu bar can be really helpful
+    Example - scatter plot to look at cost vs mpg, by foreign
+    Line, bar, etc
+    Subplots and by
+
+
+    Not sure I need to cover this
+
+         
+
