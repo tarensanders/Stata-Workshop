@@ -1,6 +1,10 @@
 /*
-ADD BOILER PLATE
+Author: 	Taren Sanders
+Contact:	taren.sanders@acu.edu.au
+Available under CC-BY-SA-4.0
 */
+version 15
+set more off
 
 /*
 You can import a built-in dataset using 'sysuse'

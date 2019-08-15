@@ -1,6 +1,11 @@
 /*
-ADD BOILER PLATE
+Author: 	Taren Sanders
+Contact:	taren.sanders@acu.edu.au
+Available under CC-BY-SA-4.0
 */
+version 15
+set more off
+
 
 /*
 A common data management task is merging or appending data.
